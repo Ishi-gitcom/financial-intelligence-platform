@@ -169,7 +169,7 @@ These metrics are displayed directly within the Streamlit dashboard to provide t
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/financial-intelligence-platform.git
+git clone https://github.com/Ishi-gitcom/financial-intelligence-platform.git
 ```
 
 Move into the project directory
