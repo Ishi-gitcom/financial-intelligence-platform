@@ -202,7 +202,8 @@ After downloading, place the files inside:
 Data/Raw/Stocks/
 ## 🌐 Live Demo
 
-🔗 https://financial-intelligence-platform-kk3o6u3dvbwome9mj6cdbb.streamlit.app/
+🔗https://financial-intelligence-platform-kk3o6u3dvbwome9mj6cdbb.streamlit.app/
+
 ## Future Improvements
 
 - Live stock data integration using Yahoo Finance APIs.
