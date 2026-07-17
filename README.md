@@ -192,6 +192,15 @@ streamlit run app.py
 ```
 
 The dashboard will open in your default browser.
+## Dataset
+
+The complete dataset is not included in this repository due to its large size.
+This repository contains a small sample dataset for demonstration purposes.
+The full dataset can be downloaded from:
+https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
+After downloading, place the files inside:
+Data/Raw/Stocks/
+
 ## Future Improvements
 
 - Live stock data integration using Yahoo Finance APIs.
