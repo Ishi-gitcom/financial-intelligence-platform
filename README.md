@@ -200,7 +200,9 @@ The full dataset can be downloaded from:
 https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
 After downloading, place the files inside:
 Data/Raw/Stocks/
+## 🌐 Live Demo
 
+🔗 https://financial-intelligence-platform-kk3o6u3dvbwome9mj6cdbb.streamlit.app/
 ## Future Improvements
 
 - Live stock data integration using Yahoo Finance APIs.
