@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2
+Random Forest,0.011,0.016,-0.013
+Linear Regression,0.012,0.017,-0.136
+XGBoost,0.013,0.017,-0.162
+Decision Tree,0.012,0.017,-0.169
