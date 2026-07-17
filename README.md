@@ -54,13 +54,13 @@ Users can select a stock, visualize its recent price movement, inspect important
 
 ---
 
-## Feature Importance
+## Explaination
 
 ![Feature Importance](assets/dashboard4.png)
 
 ---
 
-## Model Performance
+## Model Performance and Feature Importance
 
 ![Performance](assets/dashboard5.png)
 
